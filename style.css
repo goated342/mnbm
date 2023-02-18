@@ -198,7 +198,7 @@ margin:0 auto;
     width: 400px;
   }
   .burger{
-    left: -80px;
+    left: -69px;
     position: absolute;
     display: block;
     z-index: 1;
@@ -719,7 +719,7 @@ margin:0 auto;
   .header_container{
     width: 360px;
     height: 300px;
-    margin-left: 21px;
+    margin-left: 10px;
   }
   .header_title{
     position: relative;
@@ -730,8 +730,94 @@ margin:0 auto;
   }
 
   .btn{
-    left: -1043px;
+    left: -1059px;
     top: 29px;
+  }
+
+  .btn span{
+    font-size: 13px;
+  }
+
+  .header_logo{
+    width: 15%;
+  }
+
+  .robot_img{
+    position: absolute;
+    width: 93%;
+    top: 80px;
+    left: -9px;
+  }
+
+  .star_img{
+    top: 262px;
+    position: absolute;
+    width: 39%;
+    left: -290px;
+  }
+
+  .partners,
+  .faster{
+    position: absolute;
+    width: 12%;
+    opacity: 0;
+  }
+
+  .partners{
+    top: 87px; 
+    opacity: 0;
+
+  }
+
+  .faster{
+    left: 151px;
+    top: 181px;
+    width: 160px;
+  height: 231px;
+  opacity: 0;
+
+  }
+
+  .partners_block h2,
+  .faster_block h2{
+    font-size: 20px;
+    opacity: 0;
+
+  }
+
+  .partners_block p,
+  .faster_block p{
+    font-size: 8px;
+    opacity: 0;
+
+  }
+
+  .partners_block{
+    display: flex;
+    top: 148px;
+  }
+
+  .faster_block{
+    position: absolute;
+    top: 184px;
+    left: -243px; 
+    opacity: 0;
+  }
+
+  .header_subtitle{
+    position: absolute;
+    width: 215px;
+    top: 288px;
+    left: 5px;
+    font-size: 12px;
+  }
+
+  .header_btn-1{
+    position: absolute;
+    width: 22%;
+    top: 306px;
+    left: 256px;
+    font-size: 10px;
   }
 }
 
