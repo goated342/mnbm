@@ -1355,6 +1355,74 @@ height: 72px;
   }
 }
 
+@media only screen and (max-width: 394px) and (min-width: 377px){
+  .tabs_container{
+    left: 1px;
+    position: absolute;
+    top: 588px;
+    width: 390px;
+    height: 554px;
+  }
+  .item_advantages{
+    width:309px;
+    top: 165px;
+  }
+  .tabs_title{
+    width: 267px;
+    font-size: 23px;
+  }
+
+  .tabs_img{
+    top: 44px;
+    width: 10%;
+    right: 0px;
+  }
+
+  .tab__item{
+    top: 0px;
+  }
+
+  .tabs{
+    top: 60px;
+  }
+
+  .item_title{
+    
+    width: 155px;
+    top: -13px;
+    font-size: 22px;
+  }
+
+  .item_subtitle{
+    font-size: 8px;
+    top: 91px;
+    width: 192px;
+    height: 64px;
+  }
+
+  .tab__btn {
+    width: 5px;
+    height: 21px;}
+
+  .tab__btn span{
+    top: -21px;
+    font-size: 7px;
+  }
+  .item-big_img {
+    width: 42%;
+    left: -385px;
+    position: absolute;
+    top: 30px}
+
+  .item_btn{
+    top: 320px;
+    width: 164px;
+    height: 0px;
+  }
+
+
+}
+
 @media only screen and (max-width: 376px) and (min-width: 320px){
   .tabs_container{
     left: 1px;
@@ -1799,6 +1867,169 @@ height: 72px;
   }
 }
 
+@media only screen and (max-width: 394px) and (min-width: 377px){
+  .dev_container{
+    left: 4px;
+    position: absolute;
+    top: 1178px;
+    width: 360px;
+    height: 500px;
+  }
+
+  .dev_container-title{
+    font-size: 23px;
+    width: 311px;
+    height: 60px;
+  }
+
+  .annotate{
+    position: absolute;
+    top: -137px;
+    width: 138px;
+    height: 89px;
+    left: -8px;
+  }
+
+  .evaluate{
+    position: absolute;
+    top: 8px;
+    width: 138px;
+    height: 89px;
+    left: -8px;
+  }
+
+  .developers{
+    width:350px;
+    height: 300px;
+  }
+  .collect{
+    position: absolute;
+    top: 145px;
+    width: 375px;
+    height: 89px;
+    left: -8px;
+  }
+
+  .annotate_img,
+  .evaluate_img{
+    top: 1px;
+    width: 27%;
+    position: absolute;
+    left: 19px;
+  }
+  .collect_img{
+    width: 10%;
+    left: 19px;
+  }
+
+  .annotate_title,
+  .evaluate_title,
+  .collect_title{
+    height: 25px;
+    width: 68px;
+    top: 159px;
+    left: -115px;
+    position: absolute;
+    font-size: 15px;
+
+  }
+
+  .annotate_subtitle,
+  .evaluate_subtitle,
+  .collect_subtitle{
+    top: 124px;
+    left: -115px;
+    position: absolute;
+    font-size: 8px;
+    width: 81px; 
+  }
+
+
+  .vl1{
+    position: absolute;
+    height: 117%;
+    top: -138px;
+    left: 148px;
+    }
+
+  .aroow_1_2_3 img{
+    margin-top: -167px;
+    display: flex;
+    width: 8%;
+    position: absolute;
+    left: 173px;
+  }  
+
+  .arrow2{
+    top: 193px;
+  }
+
+  .arrow3{
+    top: 336px;
+    }
+
+  .manage{
+    position: absolute;
+    top: -137px;
+    width: 138px;
+    height: 89px;
+    left: 240px; 
+  }
+
+  .automate{
+    position: absolute;
+    top: 8px;
+    width: 138px;
+    height: 89px;
+    left: 240px; 
+  }
+
+  .generate{ 
+    position: absolute;
+    top: 145px;
+    width: 138px;
+    height: 89px;
+    left: 240px;
+  }
+
+
+
+  .manage_img,
+  .automate_img,
+  .generate_img{
+    top: 1px;
+    width: 27%;
+    position: absolute;
+  }
+
+  .manage_title,
+  .automatee_title,
+  .generate_title{
+    height: 25px;
+    width: 68px;
+    top: 159px;
+    left: -134px;
+    position: absolute;
+    font-size: 15px;
+  }
+
+  .manage_subtitle,
+  .automate_subtitle,
+  .generate_subtitle{
+    top: 124px;
+    left: -135px;
+    position: absolute;
+    font-size: 8px;
+    width: 99px;}
+
+  .vl2{
+    position: absolute;
+    height: 117%;
+    top: -138px;
+    left: 222px;
+  }
+}
+
 @media only screen and (max-width: 376px) and (min-width: 320px){
   .dev_container{
     left: 4px;
@@ -2214,6 +2445,53 @@ left: 64px;
   }
 }
 
+@media only screen and (max-width: 394px) and (min-width: 377px){
+  .support_block{
+    top: 1620px;
+    position: absolute;
+    width: 360px;
+    height: 250px;
+  }
+
+  .supptitle{
+    width: 240px;
+    font-size: 21px;
+    left: 14px;
+  }
+
+  .galleryContainer{
+    max-width: 360px;
+    left: 13px;
+  }
+
+  .galleryContainer .gallerySlideContainer{
+    width: 360px;
+    left: 64px;
+    max-width: 360px;
+  }
+
+   .galleryContainer .galleryContent {
+    width: 400px;
+  }
+
+  .cardContainer .cardContent{
+    margin-left: 0;
+  }
+
+  .cardContainer .description{
+    width: 61px;
+    position: absolute;
+    top: 75px;
+    height: 28px;
+    font-size: 7px;
+  }
+
+  .galleryContainer .controlsContainer{
+    left: -1091px;
+    top: 396px;
+  }
+}
+
 @media only screen and (max-width: 376px) and (min-width: 320px){
   .support_block{
     top: 1679px;
@@ -2521,6 +2799,90 @@ ul.container_text-anim .actives {
   }
 }
 
+@media only screen and (max-width: 394px) and (min-width: 377px){
+  .text_anim {
+    position: absolute;
+    width: 360px;
+    height: 200px;
+    left: 0px;
+    top: 1880px;
+  }
+
+  .annimation_title{
+    font-size: 20px;
+    top: 0px;
+    left: 115px;
+    width: 173px;
+  }
+
+  .centeredBox{
+    width: 356px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 200%;
+  }
+
+  .container_text-anim{
+    width: 377px;
+    height: 218px;
+    left: -41px;
+  }
+
+ 
+  .button-container{
+    top: 186px;
+  }
+
+  #prevs img,
+  #nexts img{
+    width: 30px;
+    position: absolute;;
+  }
+
+  #prevs{
+    left: 30px;
+    top: 27px;
+
+  }
+
+  #nexts{
+    position: absolute;
+    left: 373px;
+    top: 57px;
+  }
+
+  .actives li{
+    width: 10px;
+  }
+
+  .name_say{
+    position: absolute;
+    top: 168px;
+    left: 116px;
+    font-size: 10px;
+  }
+
+  .border_line{
+    position: absolute;
+    top: 177px;
+    left: 225px;
+    width: 25px;
+  }
+
+  .vacancy{
+    position: absolute;
+    top: 170px;
+    left: 271px;
+    font-size: 8px;
+  }
+
+  ul.container_text-anim .actives {
+    width: 350px;
+    margin-left: 7px;
+    font-size: 10px;
+  }
+}
+
 @media only screen and (max-width: 376px) and (min-width: 320px){
   .text_anim {
     position: absolute;
@@ -2742,9 +3104,39 @@ ul.container_text-anim .actives {
     height: 81px;
     width: 214px;
   }
-
 }
 
+@media only screen and (max-width: 394px) and (min-width: 377px){
+  .supported{
+    top: 2200px;
+    width: 393px;
+    height: 300px ;
+  }
+
+  .slider{
+    width: 393px;
+    height: 200px;
+  }
+
+  .supp_title{
+    position: absolute;
+    font-size: 15px;
+    left: 100px;
+    width: 190px;
+  }
+
+  .slider .slide {
+    padding: 0px;}
+
+  .slide img{
+    height: 51px;
+    width: 179px;
+  }
+
+  .slider .slide-track{
+    width: calc(-1px * 14);
+}
+}
 @media only screen and (max-width: 376px) and (min-width: 320px){
   .supported{
     top: 2300px;
@@ -2991,6 +3383,54 @@ ul.container_text-anim .actives {
   }
 }
 
+@media only screen and (max-width: 394px) and (min-width: 377px){
+  .tab_down{
+    position: absolute;
+    top: 2560px;
+    width: 360px;
+    left: -60px;
+  height: 151px;
+  }
+
+  .tab_down_logo{
+    top: 8px;
+    position: absolute;
+    width: 42px;
+    left: 15px;
+  }
+
+  .tab_down-link{
+    left: 90px;
+    font-size: 7px;
+    top: -7px;
+    gap: 10px;
+  }
+
+  .tab_down-subtitle{
+    top: 37px;
+    width: 332px;
+    height: 46px;
+    font-size: 9px;
+    left: 16px;
+  }
+  .tab_down-line{
+    height: 348px;
+    left: 190px;
+    top: -63px;
+  }
+  .copyright{
+    font-size: 7px;
+    width: 121px;
+    left: 20px;
+  }
+
+
+  .priv_pol{
+    top: 123px;
+    font-size: 7px;
+    left: 135px;
+}
+}
 @media only screen and (max-width: 376px) and (min-width: 320px){
   .tab_down{
     position: absolute;
